@@ -2,7 +2,6 @@
 
 **Auteur :** Monsef RH  
 **Module :** Qualité Logiciel  
-**Responsable :** BOUARIFI Walid  
 **Année universitaire :** 2025-2026  
 
 ---
