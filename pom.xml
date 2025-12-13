@@ -8,9 +8,9 @@
          <maven.compiler.source>21</maven.compiler.source>
          <maven.compiler.target>21</maven.compiler.target>
          <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-         <sonar.projectKey>tp-junit</sonar.projectKey>
+         <sonar.projectKey>ConversionDevisesCI</sonar.projectKey>
          <sonar.host.url>http://localhost:9000</sonar.host.url>
-         <sonar.token>squ_1234567890abcdef</sonar.token>  <!-- ton token -->
+         <sonar.token>sqp_ce49718f4af3e67ad00d2bec0f4974b5fce073b9</sonar.token>  <!-- ton token -->
          <sonar.java.binaries>target/classes</sonar.java.binaries>
          <sonar.tests>src/test/java</sonar.tests>
          <sonar.sources>src/main/java</sonar.sources>
